@@ -1,2 +1,2 @@
 # Trabajo Práctico de Git
-Este archivo fue modificado por C.
+Este archivo fue editado por C.
