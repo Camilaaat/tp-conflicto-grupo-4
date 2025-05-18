@@ -5,4 +5,3 @@ grupo.
 
 Este archivo fue modicado por D
 
-A
